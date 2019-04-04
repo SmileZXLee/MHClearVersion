@@ -8,6 +8,6 @@
 * 自动拦截播放链接，可直接复制使用电脑播放。注：默认关闭，点击“我的”，点击右上角设置，进入设置页面点击右上角开关即可打开。
 * 无需登录即可使用投屏功能
 * 无需登录即可使用缓存功能，无次数限制
-* 热门电影无需分享即可观看。注：热门电影若提示加载失败，点击重试即可
+* 热门电影无需分享即可观看
 ## 效果
 <img src="https://github.com/SmileZXLee/MHClearVersion/blob/master/DemoImg/MHClearVersionDemo2.gif?raw=true"/>
