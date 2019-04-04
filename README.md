@@ -9,4 +9,4 @@
 * 无需登录即可使用投屏功能
 * 无需登录即可使用缓存功能，无次数限制
 ## 效果
-<img src="https://github.com/SmileZXLee/MHClearVersion/blob/master/DemoImg/MHClearVersionDemo.gif?raw=true"/>
+<img src="https://github.com/SmileZXLee/MHClearVersion/blob/master/DemoImg/MHClearVersionDemo2.gif?raw=true"/>
