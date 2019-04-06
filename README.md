@@ -10,4 +10,4 @@
 * 无需登录即可使用缓存功能，无次数限制
 * 热门电影无需分享即可观看
 ## 效果
-<img src="https://github.com/SmileZXLee/MHClearVersion/blob/master/DemoImg/MHClearVersionDemo2.gif?raw=true"/>
+<img src="https://github.com/SmileZXLee/MHClearVersion/blob/master/DemoImg/MHClearVersionDemo3.gif?raw=true"/>
