@@ -1,8 +1,13 @@
 # MHClearVersion
 ## 注意：仅可用于学习交流娱乐之目的，不得用于商业用途。
 ## 安装
-### 下载ipa文件，使用签名工具重签名，可使用可视化的[iOS App Signer](https://github.com/DanTheMan827/ios-app-signer)重签名。
-### 使用Xcode或pp助手将ipa安装至手机即可，无需越狱。
+### 下载MHClearVersion.ipa
+### 使用[Impactor](http://www.cydiaimpactor.com)进行重签名与安装
+* 点击上方链接进入官网，下载对应系统版本的安装包
+* 打开Impactor，将MHClearVersion.ipa拖入窗体中
+* 输入自己的AppleID账号和密码即可安装
+* 若您的AppleID开启了双重认证，请至[官网](https://appleid.apple.com/account/manage)设置并使用您的(APP-SPECIFIC PASSWORDS)
+* 普通用户签名有效期为7天，到期需按上方步骤重新签名，付费开发者不限制天数，若您担心影响开发者账号，可以重新注册一个账号。
 ## 功能
 * 去除所有广告
 * 自动拦截播放链接，可直接复制使用电脑播放。注：默认关闭，点击“我的”，点击右上角设置，进入设置页面点击右上角开关即可打开。
