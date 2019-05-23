@@ -1,4 +1,6 @@
 # MHClearVersion
+[![CocoaPods](http://img.shields.io/cocoapods/p/ZXDataHandle.svg?style=flat)](http://cocoapods.org/?q=ZXDataHandle)&nbsp;
+[![Support](https://img.shields.io/badge/support-iOS%208.0%2B%20-blue.svg?style=flat)](https://www.apple.com/nl/ios/)&nbsp;
 ## 注意：仅可用于学习交流娱乐之目的，不得用于商业用途。
 ## 安装
 ### 下载MHClearVersion.ipa
